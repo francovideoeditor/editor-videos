@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/editor-videos/static/css/main.e6c13ad2.css",
+    "main.js": "/editor-videos/static/js/main.07280ef2.js",
+    "static/media/cv.pdf": "/editor-videos/static/media/cv.4a1658a4846b4baa20b0.pdf",
+    "static/media/rickAndMorty.PNG": "/editor-videos/static/media/rickAndMorty.f8fd94ea3c942ba19ccd.PNG",
+    "static/media/Weather.PNG": "/editor-videos/static/media/Weather.ad3a3ded824d8294bd27.PNG",
+    "static/media/Remix.PNG": "/editor-videos/static/media/Remix.edd91601ef5ba06aa76f.PNG",
+    "static/media/ingles.png": "/editor-videos/static/media/ingles.a0187eaba565a6352417.png",
+    "static/media/FyloPage.PNG": "/editor-videos/static/media/FyloPage.22b76a70fafc02742cfe.PNG",
+    "static/media/personalPhoto.jpeg": "/editor-videos/static/media/personalPhoto.492dc4f572c44809ca3e.jpeg",
+    "static/media/ListaGastos.PNG": "/editor-videos/static/media/ListaGastos.d9a5d4f70462a53e4811.PNG",
+    "static/media/filmora.png": "/editor-videos/static/media/filmora.36a0ebb834f0443738fb.png",
+    "static/media/ToDoList-React.PNG": "/editor-videos/static/media/ToDoList-React.acd594bd9771cf16ef9f.PNG",
+    "static/media/español.png": "/editor-videos/static/media/español.18c890523d5ad6dc948c.png",
+    "static/media/youtube.png": "/editor-videos/static/media/youtube.5ba753e7a18aa44432da.png",
+    "static/media/arrow.png": "/editor-videos/static/media/arrow.5ecc7c9cb1edb790c5a9.png",
+    "static/media/canva.png": "/editor-videos/static/media/canva.9a9205e5fd26a1c72a1a.png",
+    "static/media/githubLogo.svg": "/editor-videos/static/media/githubLogo.d5db839804954646a24c4fe54c218be5.svg",
+    "index.html": "/editor-videos/index.html",
+    "static/media/linkedinLogo.svg": "/editor-videos/static/media/linkedinLogo.787aa301244425e7fe5bdcff7917892f.svg",
+    "main.e6c13ad2.css.map": "/editor-videos/static/css/main.e6c13ad2.css.map",
+    "main.07280ef2.js.map": "/editor-videos/static/js/main.07280ef2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.07280ef2.js"
+  ]
+}
