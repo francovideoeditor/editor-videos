@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/editor-videos/static/css/main.e6c13ad2.css",
-    "main.js": "/editor-videos/static/js/main.07280ef2.js",
+    "main.js": "/editor-videos/static/js/main.c5408b9f.js",
     "static/media/cv.pdf": "/editor-videos/static/media/cv.4a1658a4846b4baa20b0.pdf",
     "static/media/rickAndMorty.PNG": "/editor-videos/static/media/rickAndMorty.f8fd94ea3c942ba19ccd.PNG",
     "static/media/Weather.PNG": "/editor-videos/static/media/Weather.ad3a3ded824d8294bd27.PNG",
@@ -20,10 +20,10 @@
     "index.html": "/editor-videos/index.html",
     "static/media/linkedinLogo.svg": "/editor-videos/static/media/linkedinLogo.787aa301244425e7fe5bdcff7917892f.svg",
     "main.e6c13ad2.css.map": "/editor-videos/static/css/main.e6c13ad2.css.map",
-    "main.07280ef2.js.map": "/editor-videos/static/js/main.07280ef2.js.map"
+    "main.c5408b9f.js.map": "/editor-videos/static/js/main.c5408b9f.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.07280ef2.js"
+    "static/js/main.c5408b9f.js"
   ]
 }
